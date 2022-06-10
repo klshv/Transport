@@ -1,0 +1,41 @@
+d:\documents\visual studio 2012\Projects\Weapon\Logic\bin\Debug\Logic.dll
+d:\documents\visual studio 2012\Projects\Weapon\Logic\bin\Debug\Logic.pdb
+d:\documents\visual studio 2012\Projects\Weapon\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\Weapon\Logic\obj\Debug\Logic.dll
+d:\documents\visual studio 2012\Projects\Weapon\Logic\obj\Debug\Logic.pdb
+d:\documents\visual studio 2012\Projects\Weapon\Logic\bin\Debug\Entities.dll
+d:\documents\visual studio 2012\Projects\Weapon\Logic\bin\Debug\Entities.pdb
+C:\Users\SLavka\Desktop\Weapon\Weapon\Logic\bin\Debug\Logic.dll
+C:\Users\SLavka\Desktop\Weapon\Weapon\Logic\bin\Debug\Logic.pdb
+C:\Users\SLavka\Desktop\Weapon\Weapon\Logic\bin\Debug\Entities.dll
+C:\Users\SLavka\Desktop\Weapon\Weapon\Logic\bin\Debug\Entities.pdb
+C:\Users\SLavka\Desktop\Weapon\Weapon\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\SLavka\Desktop\Weapon\Weapon\Logic\obj\Debug\Logic.dll
+C:\Users\SLavka\Desktop\Weapon\Weapon\Logic\obj\Debug\Logic.pdb
+D:\31.05.2017 Учеба и всякое с рабочего стола\Weapon\Weapon\Logic\bin\Debug\Logic.dll
+D:\31.05.2017 Учеба и всякое с рабочего стола\Weapon\Weapon\Logic\bin\Debug\Logic.pdb
+D:\31.05.2017 Учеба и всякое с рабочего стола\Weapon\Weapon\Logic\bin\Debug\Entities.dll
+D:\31.05.2017 Учеба и всякое с рабочего стола\Weapon\Weapon\Logic\bin\Debug\Entities.pdb
+D:\31.05.2017 Учеба и всякое с рабочего стола\Weapon\Weapon\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+D:\31.05.2017 Учеба и всякое с рабочего стола\Weapon\Weapon\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+D:\31.05.2017 Учеба и всякое с рабочего стола\Weapon\Weapon\Logic\obj\Debug\Logic.csproj.CopyComplete
+D:\31.05.2017 Учеба и всякое с рабочего стола\Weapon\Weapon\Logic\obj\Debug\Logic.dll
+D:\31.05.2017 Учеба и всякое с рабочего стола\Weapon\Weapon\Logic\obj\Debug\Logic.pdb
+C:\Users\vev1\Downloads\Transport\Transport\Logic\bin\Debug\Logic.dll
+C:\Users\vev1\Downloads\Transport\Transport\Logic\bin\Debug\Logic.pdb
+C:\Users\vev1\Downloads\Transport\Transport\Logic\bin\Debug\Entities.dll
+C:\Users\vev1\Downloads\Transport\Transport\Logic\bin\Debug\Entities.pdb
+C:\Users\vev1\Downloads\Transport\Transport\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\vev1\Downloads\Transport\Transport\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\vev1\Downloads\Transport\Transport\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\vev1\Downloads\Transport\Transport\Logic\obj\Debug\Logic.dll
+C:\Users\vev1\Downloads\Transport\Transport\Logic\obj\Debug\Logic.pdb
+C:\Users\SLavka\Downloads\Transport\Transport\Logic\bin\Debug\Logic.dll
+C:\Users\SLavka\Downloads\Transport\Transport\Logic\bin\Debug\Logic.pdb
+C:\Users\SLavka\Downloads\Transport\Transport\Logic\bin\Debug\Entities.dll
+C:\Users\SLavka\Downloads\Transport\Transport\Logic\bin\Debug\Entities.pdb
+C:\Users\SLavka\Downloads\Transport\Transport\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\SLavka\Downloads\Transport\Transport\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\SLavka\Downloads\Transport\Transport\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\SLavka\Downloads\Transport\Transport\Logic\obj\Debug\Logic.dll
+C:\Users\SLavka\Downloads\Transport\Transport\Logic\obj\Debug\Logic.pdb
