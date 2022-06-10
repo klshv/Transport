@@ -120,7 +120,7 @@ namespace GUIView {
         }
 
         private void DeleteButtonClick(object sender, EventArgs e) {
-            prices.RemoveAt(stopList.SelectedIndex);
+            distance.RemoveAt(stopList.SelectedIndex);
             stops.RemoveAt(stopList.SelectedIndex);
             stopList.ItemsSource = stops;
             stopList.SelectedIndex = 0;
